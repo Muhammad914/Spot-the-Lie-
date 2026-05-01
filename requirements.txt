@@ -1,0 +1,10 @@
+piptorch>=1.9.0
+transformers>=4.20.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+numpy>=1.21.0
+requests>=2.25.0
+tenacity>=8.0.0
+accelerate>=0.26.0
+openai>=1.93.0
+protobuf>=3.20.0 
